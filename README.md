@@ -1,4 +1,8 @@
-### Hi there 👋
+###👋 Hi there! 
+My name is Stephen, I'm a high school student from John Fraser Secondary School and an aspiring full stack developer. I enjoy in binging hackathons and connecting with likeminded individuals who are passionate about programming!
+
+###🌱 I’m currently learning
+I'm currently taking a course in aritificial intellgence using TensorFlow, specifically recreating siri!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-ics&count_private=true)
 
