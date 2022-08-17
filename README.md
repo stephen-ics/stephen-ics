@@ -2,7 +2,7 @@
 My name is Stephen, I'm a high school student from John Fraser Secondary School and an aspiring full stack developer. I enjoy in binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ### 🌱 I’m currently learning
-I'm currently learning artificial intelligence with @InspiritAI!
+I'm currently learning different competitive programming algorithms such as Breadths First-Search, Djikstra's and Dynamic Programming!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-ics&count_private=true)
 
