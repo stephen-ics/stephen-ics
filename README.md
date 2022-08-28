@@ -2,8 +2,7 @@
 My name is Stephen, I'm a high school student from John Fraser Secondary School and an aspiring full stack developer. I enjoy in binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ### 🌱 I’m currently working on
-I'm currently learning different competitive programming algorithms such as Breadths First-Search, Djikstra's and Dynamic Programming!
-I'm also a serial hackathoner, check out my [Devpost!](https://duckduckgo.com)
+I'm currently learning different competitive programming algorithms such as Breadths First-Search, Djikstra's and Dynamic Programming! I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ### ⚙️ I'm currently working on 
 Organizing hackathons such as TurtleHacks and PetHacks :)
