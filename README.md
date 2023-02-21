@@ -1,4 +1,10 @@
-### 👋 Hi there! 
+<p align="center">
+  <img width="1000" height="500" object-fit="cover" src="https://wallpaperaccess.com/full/8094957.gif" alt="👋 Hey, I'm Stephen" title="👋 Hey, I'm Stephen"/>
+</p>
+
+<h1 align="center"><b>Hey, I'm Stephen 👋</b></h1>
+
+### 😊 About Me! 
 My name is Stephen, I'm a high school student from John Fraser Secondary School and an aspiring full stack developer. I enjoy in binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ### 🌱 I’m currently working on
