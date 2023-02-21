@@ -2,10 +2,8 @@
   <img width="800" height="400" object-fit="cover" src="https://wallpaperaccess.com/full/8094957.gif" alt="👋 Hey, I'm Stephen" title="👋 Hey, I'm Stephen"/>
 </p>
 
-<h1 align="center"><b>Hey, I'm Stephen 👋</b></h1>
-
 ## 😊 About Me! 
-My name is Stephen, I'm a high school student from John Fraser Secondary School and an aspiring full stack developer. I enjoy in binging hackathons and connecting with likeminded individuals who are passionate about programming!
+Hey, I'm Stephen 👋, I'm a high school student from John Fraser Secondary School and an aspiring full stack developer. I enjoy in binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ## 🌱 I’m currently working on
 I'm currently learning different competitive programming algorithms such as Breadths First-Search, Djikstra's and Dynamic Programming! I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). Additionally, I'm also organizing hackathons such as TurtleHacks and PetHacks :)
