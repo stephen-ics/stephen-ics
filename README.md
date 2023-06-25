@@ -3,10 +3,10 @@
 </p>
 
 ## 😊 About Me! 
-Hey, I'm Stephen 👋, I'm a high school student from John Fraser Secondary School and an aspiring full stack developer. I enjoy in binging hackathons and connecting with likeminded individuals who are passionate about programming!
+Hey, I'm Stephen 👋, I'm an incoming Systems Design Engineering student at the University of Waterloo and an aspiring full-stack developer. I enjoy binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ## 🌱 I’m currently working on
-I'm currently learning different competitive programming algorithms such as Breadths First-Search, Djikstra's and Dynamic Programming! I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). Additionally, I'm also organizing hackathons such as TurtleHacks and PetHacks :)
+I'm currently learning different competitive programming algorithms such as Breadths First-Search, Dijkstra's and Dynamic Programming! I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). Additionally, I'm also organizing hackathons such as TurtleHacks and PetHacks :)
 
 ## Languages
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
