@@ -19,8 +19,11 @@ I'm currently obsessed with back-end architecture, specifically how to design sc
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> &nbsp; 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /> &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-ics&count_private=true)
-![Leetcode Stats](https://leetcard.jacoblin.cool/Turties)
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=stephen-ics&count_private=true" width="45%" />
+    <img src="https://leetcard.jacoblin.cool/Turties" width="45%" />
+</div>
+
 <!--
 **stephen-ics/stephen-ics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
