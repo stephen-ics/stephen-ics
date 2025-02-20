@@ -6,10 +6,18 @@
 Hey, I'm Stephen 👋, I'm an incoming Systems Design Engineering student at the University of Waterloo and an aspiring full-stack developer. I enjoy binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ## 🌱 I’m currently working on
-I'm currently learning different competitive programming algorithms such as Breadths First-Search, Dijkstra's and Dynamic Programming! I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). Additionally, I'm also organizing hackathons such as TurtleHacks and PetHacks :)
+I'm currently obsessed with back-end architecture, specifically how to design scalable, data-heavy systems by annotating Designing Data Intensive Applications. I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi). Additionally, I'm also organizing hackathons such as [TurtleHacks!](https://turtlehacks.devpost.com/)!
 
 ## Languages
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; 
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> &nbsp; 
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> &nbsp; 
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /> &nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-ics&count_private=true)
 
