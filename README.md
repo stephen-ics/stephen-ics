@@ -6,7 +6,7 @@
 Hey, I'm Stephen 👋, I'm an incoming Systems Design Engineering student at the University of Waterloo and an aspiring full-stack developer. I enjoy binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ## 🌱 I’m currently working on
-I'm currently obsessed with back-end architecture, specifically how to design scalable, data-heavy systems by annotating Designing Data Intensive Applications. I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi). Additionally, I'm also organizing hackathons such as [TurtleHacks!](https://turtlehacks.devpost.com/)!
+I'm currently obsessed with back-end architecture, specifically how to design scalable, data-heavy systems by annotating the book Designing Data Intensive Applications. I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi). Additionally, I'm also organizing hackathons such as [TurtleHacks!](https://turtlehacks.devpost.com/)!
 
 ## Languages
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
