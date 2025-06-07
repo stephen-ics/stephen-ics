@@ -24,7 +24,7 @@ I'm currently obsessed with back-end architecture, specifically how to design sc
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> &nbsp;
