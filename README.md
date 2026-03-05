@@ -9,25 +9,24 @@ Hey, I'm Stephen 👋, I'm an incoming Systems Design Engineering student at the
 I'm currently obsessed with back-end architecture, specifically how to design scalable, data-heavy systems by annotating the book Designing Data Intensive Applications. I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi). Additionally, I'm also organizing hackathons such as [TurtleHacks!](https://turtlehacks.devpost.com/)!
 
 ## Tech Stack
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;
+<!-- Languages / Systems -->
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /> &nbsp;
+<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> &nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> &nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" /> &nbsp;
