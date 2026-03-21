@@ -3,7 +3,7 @@
 </p>
 
 ## 😊 About Me! 
-Hey, I'm Stephen 👋, I'm an ex uWaterloo student and a full-stack developer. I enjoy binging hackathons and connecting with likeminded individuals who are passionate about programming!
+Hey, I'm Stephen 👋, I'm an uWaterloo student and a full-stack developer. I enjoy binging hackathons and connecting with likeminded individuals who are passionate about programming!
 
 ## 🌱 I'm currently working on
 I'm currently interested in distributed backend systems, specifically how to design high available and fault tolerant systems. I am also a serial hackathoner, check out my [Devpost!](https://devpost.com/StephenNi). Additionally, I'm also organizing hackathons such as [TurtleHacks!](https://turtlehacks.devpost.com/)!
